@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+
+website:
+  title: "緊急地震速報 技術資料 逐次解説"
+  site-url: https://hatakkou.github.io/
+  repo-url: https://github.com/hatakkou/hatakkou.github.io
